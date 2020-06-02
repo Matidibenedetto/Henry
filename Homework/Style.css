@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://image.freepik.com/foto-gratis/fondo-paginas-libro_8119-866.jpg) ;
+}
+
+
+h1{
+    color: blue;
+    border: 1px solid;
+    ;
+}  
+img{
+    width: 400px;
+
+}
+ThirdDIV{
+    height: 600px;
+    width: 500px;
+    background-color: chartreuse;
+    padding: 50px;
+    border-radius: 1px solid;
+    display: flex;
+    
+
+
+}
+
+div { flex-direction: row;}
